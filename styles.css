@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(108, 87, 100);
+    color: black;
+    font-family:Arial,Sans-serif;
+}
+header {
+    background-color: rgb(167, 156, 143);
+    font-size: 20px;
+}
+section {
+    width: 15%;
+    margin: auto;
+}
+section ul {
+    width: auto;
+
+}
+
+section ul li {
+    text-align: left;
+}
+
+* {
+
+    text-align: center;
+
+}
+
+#image{
+    width: 10%;
+    height: 10%;
+}
